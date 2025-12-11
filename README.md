@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Sollin Selvan Manian 👋
 
-<!--
-**Sollinselvan89/sollinselvan89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst with 1.5 years of freelance experience building SQL-based reports and interactive dashboards. Currently expanding my toolkit with Python, pandas, and Power BI while working on real-world portfolio projects.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** Python, SQL
+- **Tools:** pandas, Power BI, Excel
+- **Focus:** Data analysis, visualization, business insights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect
+- LinkedIn: Coming soon
+- Location: Toronto, ON
+
+Currently building portfolio projects and open to Data Analyst opportunities in the GTA.
