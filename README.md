@@ -9,6 +9,6 @@ Data Analyst with 1.5 years of freelance experience building SQL-based reports a
 
 ## 📫 Connect
 - LinkedIn: Coming soon
-- Location: Toronto, ON
+- Location: Pickering, ON
 
 Currently building portfolio projects and open to Data Analyst opportunities in the GTA.
